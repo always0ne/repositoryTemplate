@@ -2,19 +2,16 @@
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
-<!--
-  - [Deployment](#deployment)
--->
   - [Contributing](#contributing)
   - [Authors](#authors)
-<!--  
+  - [License](#license)
+<!--  Other options to write Readme
+  - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-  - [License](#license)
 ## About RepositoryTemplate
 <!--Wirte one paragraph of project description -->  
 This project's purpose is to create a make Repository with a collection of default settings  
-I am looking for someone to help with this project. Please advise and point out.
 
 ## Overview
 <!-- Write Overview about this project -->
@@ -28,9 +25,10 @@ I am looking for someone to help with this project. Please advise and point out.
 
 ## Getting Started
 **click `Use this template` and use this template!**
+<!--
 ### Depencies
-<!-- Write about need to install the software and how to install them -->
-
+ Write about need to install the software and how to install them 
+-->
 ### Installing
 <!-- A step by step series of examples that tell you how to get a development 
 env running
@@ -52,6 +50,7 @@ And repeat
  -->
 ## Contributing
 <!-- Write the way to contribute -->
+I am looking for someone to help with this project. Please advise and point out.  
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
@@ -62,7 +61,7 @@ See also the list of [contributors](https://github.com/always0ne/readmeTemplate/
 who participated in this project.
 <!--
 ## Used or Referenced Projects
- - [referenced Project](/) - **LICENSE** - little of introduce
+ - [referenced Project](project link) - **LICENSE** - little-bit introduce
 -->
 
 ## License
