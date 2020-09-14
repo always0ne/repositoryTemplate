@@ -1,21 +1,86 @@
-# 레포지터리 초기 세팅 템플릿
+# Repository Quick Start template
+this project' purpose is to create a make Repository with a collection of default settings  
+click `Use this template` and use this template!
+`Wirte one paragraph of project description`
 
-## How To Contribute
-### commit
-- commit Template 엄수   
-(로컬 환경에서 `git config --local commit.template .github/.gitmessage.txt` 세팅 필요)
-- resolves, see also에 ISSUE 링크시킬것
-- 1 commit 1 작업(히스토리 관리를 위함)
+## Summary
 
-### issue
-- Issues 트래킹을 위해 작업단위로 issue를 생성(ex. ~버그 수정, ~기능 추가)
-- project에 링크 걸것
+  - [Getting Started](#getting-started)
+  - [Deployment](#deployment)
+  - [Contributing](#contributing)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [Used or Referenced Projects](Used-or-Referenced-Projects)
+  - [License](#license)
 
-### branch
-- gitflow 모델을 사용
-- `feature/(이슈번호)-(작업명)`의 네이밍 으로 브렌치 생성
+## Getting Started
+### Depencies
 
-### pull request
-- 작업 완료 후 develop로 pull request 작성할 것
-- team 멤버들이 pull request의 리뷰를 끝내야 머지가능
-- project에 링크 걸것
+What things you need to install the software and how to install them
+
+    Give examples
+
+### Installing
+
+A step by step series of examples that tell you how to get a development
+env running
+
+Say what the step will be
+
+    Give the example
+
+And repeat
+
+    until finished
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use <major>.<minor>.<etc> For the versions
+available, see the [tags on this
+repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+
+## Authors
+
+  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+
+See also the list of
+[contributors](https://github.com/always0ne/readmeTemplate/contributors)
+who participated in this project.
+
+## Used or Referenced Projects
+- [referenced Project](/) - **LICENSE** - little of introduce
+
+## License
+
+```
+MIT License
+
+Copyright (c) 2020 always0ne
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
