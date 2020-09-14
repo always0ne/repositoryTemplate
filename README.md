@@ -1,6 +1,5 @@
 # Repository Quick Start template
 this project' purpose is to create a make Repository with a collection of default settings  
-click `Use this template` and use this template!
 `Wirte one paragraph of project description`
 
 ## Summary
@@ -14,6 +13,7 @@ click `Use this template` and use this template!
   - [License](#license)
 
 ## Getting Started
+**click `Use this template` and use this template!**
 ### Depencies
 
 What things you need to install the software and how to install them
@@ -44,16 +44,14 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use <major>.<minor>.<etc> For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+We use `major`.`minor`.`etc` For the versions
+available, see the [tags on this repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
   - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
 
-See also the list of
-[contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
 who participated in this project.
 
 ## Used or Referenced Projects
